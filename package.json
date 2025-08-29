@@ -1,0 +1,23 @@
+{
+  "name": "audio",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/olliee2/audio#readme",
+  "bugs": {
+    "url": "https://github.com/olliee2/audio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olliee2/audio.git"
+  },
+  "license": "",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "music-metadata": "^11.6.0"
+  }
+}
