@@ -2,7 +2,7 @@
 
 ## About
 
-The backend repository that hosts the audio for the [soundboard](https://github.com/olliee2/soundboard).
+The backend repository that hosts the audio for the [soundboard](https://github.com/ethan-hawksley/soundboard).
 This repository automatically runs the GitHub action responsible for generating the `songs.json` file used by the
 soundboard.
 
@@ -15,7 +15,7 @@ soundboard.
 
 2. Clone the repository:
    ```sh
-    git clone https://github.com/olliee2/audio.git
+    git clone https://github.com/ethan-hawksley/audio.git
    cd soundboard
    ```
 

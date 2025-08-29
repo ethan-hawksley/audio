@@ -2,13 +2,13 @@
   "name": "audio",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/olliee2/audio#readme",
+  "homepage": "https://github.com/ethan-hawksley/audio#readme",
   "bugs": {
-    "url": "https://github.com/olliee2/audio/issues"
+    "url": "https://github.com/ethan-hawksley/audio/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olliee2/audio.git"
+    "url": "git+https://github.com/ethan-hawksley/audio.git"
   },
   "license": "",
   "author": "",

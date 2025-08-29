@@ -7,7 +7,7 @@ console.log("Working directory:", process.cwd());
 console.log("Song directory exists:", fs.existsSync("./songs"));
 
 const audioExtensions = [".mp3", ".ogg", ".flac", ".wav"];
-const baseUrl = "https://olliee2.github.io/audio/";
+const baseUrl = "https://ethan-hawksley.github.io/audio/";
 const songsRoot = path.resolve("./songs");
 
 function formatSongName(filename) {
