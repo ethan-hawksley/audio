@@ -7,6 +7,11 @@
       "duration": 16
     },
     {
+      "name": "Harry'S Wondrous World",
+      "url": "https://ethan-hawksley.github.io/audio/songs/Harry's Wondrous World.ogg",
+      "duration": 321
+    },
+    {
       "name": "Kool & The Gang - Celebration",
       "url": "https://ethan-hawksley.github.io/audio/songs/Kool & The Gang - Celebration.ogg",
       "duration": 257
@@ -22,18 +27,18 @@
       "duration": 1
     },
     {
-      "name": "Applause2",
-      "url": "https://ethan-hawksley.github.io/audio/songs/applause2.ogg",
+      "name": "Applause",
+      "url": "https://ethan-hawksley.github.io/audio/songs/applause.ogg",
       "duration": 4
     },
     {
-      "name": "Ok[1]",
-      "url": "https://ethan-hawksley.github.io/audio/songs/ok[1].ogg",
+      "name": "Ok",
+      "url": "https://ethan-hawksley.github.io/audio/songs/ok.ogg",
       "duration": 2
     },
     {
-      "name": "Wrong[1]",
-      "url": "https://ethan-hawksley.github.io/audio/songs/wrong[1].ogg",
+      "name": "Wrong",
+      "url": "https://ethan-hawksley.github.io/audio/songs/wrong.ogg",
       "duration": 0
     }
   ],
@@ -884,17 +889,6 @@
       "folders": []
     },
     {
-      "name": "Entry-Exit",
-      "files": [
-        {
-          "name": "02 Harry S Wondrous World",
-          "url": "https://ethan-hawksley.github.io/audio/songs/Entry-Exit/02 Harry_s Wondrous World.ogg",
-          "duration": 321
-        }
-      ],
-      "folders": []
-    },
-    {
       "name": "Homework",
       "files": [
         {
@@ -1271,19 +1265,7 @@
           "duration": 15
         }
       ],
-      "folders": [
-        {
-          "name": "Question/Entry-Exit",
-          "files": [
-            {
-              "name": "02 Harry S Wondrous World",
-              "url": "https://ethan-hawksley.github.io/audio/songs/Question/Entry-Exit/02 Harry_s Wondrous World.ogg",
-              "duration": 321
-            }
-          ],
-          "folders": []
-        }
-      ]
+      "folders": []
     },
     {
       "name": "Short Activity",
