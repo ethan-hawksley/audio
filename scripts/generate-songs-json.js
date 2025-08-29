@@ -13,10 +13,11 @@ const songsRoot = path.resolve("./songs");
 function formatSongName(filename) {
   const nameWithoutExt = path.parse(filename).name;
   const withSpaces = nameWithoutExt
-    .replace(/_/g, " ")
-    .replace(/\s+/g, " ")
+    .replace(/_/g, " ") // Convert underscores to spaces
+    .replace(/\s+/g, " ") // Collapse spaces to one space
+    .replace(/\[.*?]/, "") // Delete square bracket text
     .trim();
-  return withSpaces.replace(/\b\w/g, (c) => c.toUpperCase());
+  return withSpaces.replace(/\s(\w)/g, (c) => c.toUpperCase()); // Capitalise each word
 }
 
 async function getAudioFiles(dir) {
