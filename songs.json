@@ -17,6 +17,11 @@
       "duration": 257
     },
     {
+      "name": "Living On A Prayer",
+      "url": "https://hawksley.dev/audio/songs/Living_on_a_prayer.ogg",
+      "duration": 16
+    },
+    {
       "name": "SOUND EFFECT DRUM ROLL",
       "url": "https://hawksley.dev/audio/songs/SOUND EFFECT DRUM ROLL.ogg",
       "duration": 5
@@ -30,11 +35,6 @@
       "name": "applause",
       "url": "https://hawksley.dev/audio/songs/applause.ogg",
       "duration": 4
-    },
-    {
-      "name": "living On A Prayer",
-      "url": "https://hawksley.dev/audio/songs/living_on_a_prayer.ogg",
-      "duration": 16
     },
     {
       "name": "ok",
