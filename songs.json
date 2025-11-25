@@ -7,6 +7,11 @@
       "duration": 16
     },
     {
+      "name": "Halfway There",
+      "url": "https://hawksley.dev/audio/songs/Halfway There.ogg",
+      "duration": 16
+    },
+    {
       "name": "Harry's Wondrous World",
       "url": "https://hawksley.dev/audio/songs/Harry's Wondrous World.ogg",
       "duration": 321
@@ -15,11 +20,6 @@
       "name": "Kool & The Gang - Celebration",
       "url": "https://hawksley.dev/audio/songs/Kool & The Gang - Celebration.ogg",
       "duration": 257
-    },
-    {
-      "name": "Living On A Prayer",
-      "url": "https://hawksley.dev/audio/songs/Living_on_a_prayer.ogg",
-      "duration": 16
     },
     {
       "name": "SOUND EFFECT DRUM ROLL",
@@ -302,9 +302,9 @@
           "duration": 180
         },
         {
-          "name": "A New Dawn (Original Game Soundtrack)",
-          "url": "https://hawksley.dev/audio/songs/Background/A New Dawn (Original Game Soundtrack) [I-p3x84aqak].ogg",
-          "duration": 232
+          "name": "A New Dawn",
+          "url": "https://hawksley.dev/audio/songs/Background/A New Dawn.ogg",
+          "duration": null
         },
         {
           "name": "AC Syndicate OST ⧸ Austin Wintory - Danza Alla Daggers",
@@ -403,8 +403,8 @@
         },
         {
           "name": "Hollow Knight OST - City Of Tears",
-          "url": "https://hawksley.dev/audio/songs/Background/Hollow Knight OST - City of Tears [MJDn70jh1V0].ogg",
-          "duration": 179
+          "url": "https://hawksley.dev/audio/songs/Background/Hollow Knight OST - City of Tears.ogg",
+          "duration": null
         },
         {
           "name": "Hollow Knight OST - Dirtmouth",
