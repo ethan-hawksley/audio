@@ -304,12 +304,12 @@
         {
           "name": "A New Dawn",
           "url": "https://hawksley.dev/audio/songs/Background/A New Dawn.ogg",
-          "duration": null
+          "duration": 232
         },
         {
           "name": "AC Syndicate OST ⧸ Austin Wintory - Danza Alla Daggers",
-          "url": "https://hawksley.dev/audio/songs/Background/AC Syndicate OST ⧸ Austin Wintory  - Danza alla Daggers.ogg",
-          "duration": null
+          "url": "https://hawksley.dev/audio/songs/Background/AC Syndicate OST ⧸ Austin Wintory - Danza alla Daggers.ogg",
+          "duration": 191
         },
         {
           "name": "Amelie Soundtrack 4 - Comptine D Un Autre été： L Après-midi",
@@ -324,7 +324,7 @@
         {
           "name": "Battle Trance",
           "url": "https://hawksley.dev/audio/songs/Background/Battle Trance.ogg",
-          "duration": null
+          "duration": 201
         },
         {
           "name": "Braveheart Soundtrack",
@@ -334,12 +334,12 @@
         {
           "name": "CHARIOTS Of FIRE Theme",
           "url": "https://hawksley.dev/audio/songs/Background/CHARIOTS of FIRE theme.ogg",
-          "duration": null
+          "duration": 214
         },
         {
           "name": "Cast Away Soundtrack - Main Theme",
           "url": "https://hawksley.dev/audio/songs/Background/Cast Away Soundtrack - Main Theme.ogg",
-          "duration": null
+          "duration": 234
         },
         {
           "name": "Clocktowers Beneath The Sea",
@@ -409,7 +409,7 @@
         {
           "name": "Hollow Knight OST - City Of Tears",
           "url": "https://hawksley.dev/audio/songs/Background/Hollow Knight OST - City of Tears.ogg",
-          "duration": null
+          "duration": 179
         },
         {
           "name": "Hollow Knight OST - Dirtmouth",
@@ -912,11 +912,6 @@
     {
       "name": "Last Minute",
       "files": [
-        {
-          "name": "04 Twisted Nerve",
-          "url": "https://hawksley.dev/audio/songs/Last Minute/04 Twisted Nerve.ogg",
-          "duration": null
-        },
         {
           "name": "05 The Doge S Decree",
           "url": "https://hawksley.dev/audio/songs/Last Minute/05_The_Doge_s_Decree.ogg",
