@@ -347,6 +347,11 @@
           "duration": 234
         },
         {
+          "name": "Choral Chambers - Hollow Knight Silksong",
+          "url": "https://hawksley.dev/audio/songs/Background/Choral Chambers - Hollow Knight Silksong.ogg",
+          "duration": 164
+        },
+        {
           "name": "Clocktowers Beneath The Sea",
           "url": "https://hawksley.dev/audio/songs/Background/Clocktowers Beneath the Sea [drT1uOViuz4].ogg",
           "duration": 232
@@ -365,6 +370,11 @@
           "name": "Dearest Hue (Hue Main Theme)",
           "url": "https://hawksley.dev/audio/songs/Background/Dearest Hue (Hue Main Theme) [JoXSyVlJWoA].ogg",
           "duration": 93
+        },
+        {
+          "name": "Everlong (Piano)",
+          "url": "https://hawksley.dev/audio/songs/Background/Everlong (Piano).ogg",
+          "duration": 169
         },
         {
           "name": "Fallout 3",
@@ -655,6 +665,11 @@
           "name": "Rudy (Theme)",
           "url": "https://hawksley.dev/audio/songs/Background/Rudy (Theme) [-09ayPX_KVs].ogg",
           "duration": 260
+        },
+        {
+          "name": "Scarlet Forest (Piano)",
+          "url": "https://hawksley.dev/audio/songs/Background/Scarlet Forest (Piano).ogg",
+          "duration": 323
         },
         {
           "name": "Star Trek： The Motion Picture - The Enterprise",
@@ -1061,6 +1076,11 @@
           "name": "Everybody Loves Raymond",
           "url": "https://hawksley.dev/audio/songs/Last Minute/Everybody_Loves_Raymond.ogg",
           "duration": 34
+        },
+        {
+          "name": "Iris Out (Piano)",
+          "url": "https://hawksley.dev/audio/songs/Last Minute/Iris Out (Piano).ogg",
+          "duration": 153
         },
         {
           "name": "Mission Impossible",
@@ -1551,6 +1571,11 @@
           "duration": 160
         },
         {
+          "name": "Creator",
+          "url": "https://hawksley.dev/audio/songs/Short Activity/Creator.ogg",
+          "duration": 161
+        },
+        {
           "name": "Dave Grusin - Fratelli Chase  [EleXUCFxCkg]",
           "url": "https://hawksley.dev/audio/songs/Short Activity/Dave Grusin - Fratelli Chase [THE GOONIES, USA - 1985] [EleXUCFxCkg].ogg",
           "duration": 178
@@ -1599,6 +1624,11 @@
           "name": "File Select",
           "url": "https://hawksley.dev/audio/songs/Short Activity/File Select [OYBcLeXMK-w].ogg",
           "duration": 146
+        },
+        {
+          "name": "Freedom Dive (Piano)",
+          "url": "https://hawksley.dev/audio/songs/Short Activity/Freedom Dive (Piano).ogg",
+          "duration": 268
         },
         {
           "name": "Futurama",
@@ -1664,6 +1694,11 @@
           "name": "Oh It S You",
           "url": "https://hawksley.dev/audio/songs/Short Activity/Oh It_s You [Wxoap9xp2_k].ogg",
           "duration": 127
+        },
+        {
+          "name": "PiaNoFace (Piano)",
+          "url": "https://hawksley.dev/audio/songs/Short Activity/PiaNoFace (Piano).ogg",
+          "duration": 313
         },
         {
           "name": "Pink Panther Theme Song",
