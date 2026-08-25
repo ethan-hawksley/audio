@@ -15,7 +15,7 @@ soundboard.
 
 2. Clone the repository:
    ```sh
-    git clone https://github.com/ethanhawksley/audio.git
+    git clone https://github.com/ethanhawksley/audio
    cd soundboard
    ```
 
