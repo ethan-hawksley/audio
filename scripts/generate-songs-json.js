@@ -7,7 +7,7 @@ console.log("Working directory:", process.cwd());
 console.log("Song directory exists:", fs.existsSync("./songs"));
 
 const audioExtensions = [".mp3", ".ogg", ".flac", ".wav"];
-const baseUrl = "https://hawksley.dev/audio/";
+const baseUrl = "https://audio.hawksley.dev/";
 const songsRoot = path.resolve("./songs");
 
 function formatSongName(filename) {
@@ -27,21 +27,28 @@ async function getAudioFiles(dir) {
   });
   return await Promise.all(files.map(async (file) => {
     const filePath = path.join(dir, file);
-    let duration;
+    let duration = null;
     try {
-      const metadata = await mm.parseFile(filePath);
-      duration = metadata.format.duration ? Math.round(metadata.format.duration) : null;
+      const metadata = await mm.parseFile(filePath, {
+        duration: true,
+        skipCovers: true,
+      });
+      if (typeof metadata.format.duration === "number") {
+        duration = Math.round(metadata.format.duration);
+      }
     } catch (e) {
-      duration = null;
+      console.warn(`Failed to parse metadata for ${filePath}:`, e.message);
     }
     const absoluteFilePath = path.resolve(dir, file);
     const relativePath = path
       .relative(songsRoot, absoluteFilePath)
       .replace(/\\/g, "/");
     return {
-      name: formatSongName(file), url: baseUrl + "songs/" + relativePath, duration,
+      name: formatSongName(file),
+      url: baseUrl + "songs/" + relativePath,
+      duration,
     };
-  }),);
+  }));
 }
 
 async function getFolders(dir) {
